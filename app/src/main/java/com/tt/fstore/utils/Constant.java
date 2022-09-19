@@ -12,7 +12,7 @@ public class Constant {
     public static final String PRIMARY_PHONE = "primary_phone";
     public static final String FIRST_NAME = "first_name";
     public static final String LAST_NAME = "last_name";
-    public static final String GENDER = "GENDER";
+    public static final String GENDER = "gender";
     public static final String PASSWORD_HASH = "password_hash";
     public static final String AUTH_TOKEN = "auth_token";
     public static final String LOGIN_TYPE = "login_type";
